@@ -3,4 +3,4 @@ first in terminal
 ### npm i 
 for install dependencies.
 you should require this file to use that in your project
-const jwt = require('jsonwebtoken')
+### const jwt = require('jsonwebtoken')
