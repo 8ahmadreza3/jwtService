@@ -1,4 +1,4 @@
-const tokenService = require('../index')
+const tokenService = require('./index')
 
 module.exports = (req, res, next) => {
   if (!('authorization' in req.header)) {
